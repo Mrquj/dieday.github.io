@@ -5,7 +5,8 @@ permalink: /blog/:title
 # My variables
 name: Dieday'blog
 description: 偶尔写写博客，吐槽下生活，分享点自己觉得有意思的东西。
-url: http://dieday.com
+url: https://mrquj.github.io/dieday.github.io
+baseurl: /dieday.github.io
 google_verification: null
 
 
